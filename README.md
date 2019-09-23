@@ -36,5 +36,7 @@ Tahap - tahapnya adalah :
 5. Klik "SEND", kemudian output akan terlihat dibagian bawah (Contoh output dapat dilihat pada "output.png)
 <br>
 Kalian dapat mengganti nilai dari variabel untuk testing dengan data yang kalian miliki.
+<br>
+Selamat mencoba ya :)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
