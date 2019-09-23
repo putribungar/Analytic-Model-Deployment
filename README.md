@@ -2,7 +2,7 @@
 
 # 1. Deploy Model Credit Scoring
 Credit scoring merupakan sistem/cara yang digunakan oleh bank atau lembaga pembiayaan lainnya dengan melihat prediksi melalui beberapa variabel yang dapat menentukan apakah pelanggan akan terlambat bayar atau tidak terlambat. Sehingga dengan adanya model credit scoring maka lembaga tersebut dapat diketahui prediksi apakah pelanggan layak atau tidak untuk mendapatkan pinjaman.
-<br>
+<br><br>
 Pada sistem ini akan dilakukan credit scoring menggunakan model algoritme random forest classifier. Algoritme Random Forest Classifier merupakan sebuah algoritme pada machine learning yang digunakan untuk menyelesaikan permasalahan. Random Forest merupakan salah satu metode dalam Decision Tree. Decision Tree adalah sebuah diagram alir yang berbentuk seperti pohon yang memiliki sebuah root node yang digunakan untuk mengumpulkan data, inner node yang berada pada root node yang berisi tentang pertanyaan tentang data dan sebuah leaf node yang digunakan untuk memecahkan masalah serta membuat keputusan. Decision tree mengklasifikasikan suatu sampel data yang belum diketahui kelasnya kedalam kelas–kelas yang ada. Random forest adalah kombinasi dari masing–masing tree yang baik kemudian dikombinasikan ke dalam satu model. 
 <br>
 Variabel yang digunakan pada sistem ini ada 4, yaitu :
