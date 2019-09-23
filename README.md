@@ -30,6 +30,7 @@ Jika POSTMAN sudah ada, maka kalian dapat membukanya dan memasukkan data kalian 
 Tahap - tahapnya adalah :
 1. Buka Postman
 2. Ganti method menjadi "POST" (Kalian dapat melihat screenshot "datatest.png" yang telah saya upload)
+3. Masukkan putribungar.pythonanywhere.com/api pada "Enter Request URL" untuk meunggah model yang telah saya kembangkan
 3. Klik "Body", lalu klik "raw" dan pilih "JSON(application/json)" (Kalian dapat melihat screenshot "datatest.png")
 4. Setelah itu kalian dapat memasukkan data kalian dengan variabel yang telah ditentukan diatas yaitu LIMIT_BAL, AGE, BILL_AMT1, PAY_AMT1 (Kalian dapat melihat formatnya di screenshot "datatest.png", atau kalian dapat melihat scriptnya pada "datatesting.txt" yang telah saya upload)
 5. Klik "SEND", kemudian output akan terlihat dibagian bawah (Contoh output dapat dilihat pada "output.png)
